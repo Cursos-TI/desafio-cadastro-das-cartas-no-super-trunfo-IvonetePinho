@@ -48,6 +48,14 @@ int main() {
     Printf("Pontos turísticos:%d\n",pontos turísticos);
     printf("Area:%f\n",area);
     Printf("PIB:%f\n",pib);
+
+return 0;
+
+}
+
+
+
+    
     
 
     return 0;
